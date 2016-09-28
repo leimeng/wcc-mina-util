@@ -1,0 +1,3 @@
+<servers>
+   <server imp="com.app.test.ServiceInstanceManger" instance="com.app.test.ServiceInstanceProxy" enabled="false"></server>
+</servers>
